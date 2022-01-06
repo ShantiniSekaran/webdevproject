@@ -55,11 +55,11 @@ In this demo, you step will through the features of this web application which i
 1. Type keywords in items. For example, christmas.
 2. Click on "Search".   
 
-![search](/search.jpg)  
+![search](/search.jpg)
 
 3. All items based on your keyword will appear.   
 
-![search](/searchsuccess.jpg)  
+![searchsucess](/searchsuccess.jpg)  
 
 ### Delete your expense
 
