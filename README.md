@@ -13,11 +13,11 @@ This system is built as a full stack web application system with the following t
 ## Demo on "My Expense Tracker  
 
 In this demo, you step will through the features of this web application which involves:   
-* <a href = "">Add your expense</a>
-* <a href = "">View your expense</a>
-* <a href = "">Edit your expense</a>
-* <a href = "">Seach for expense</a>
-* <a href = "">Delete expense</a>
+* <a href = "Add-your-expense">Add your expense</a>
+* <a href = "View-your-expense">View your expense</a>
+* <a href = "Edit-your-expense">Edit your expense</a>
+* <a href = "Search-for-expense">Seach for expense</a>
+* <a href = "Delete-expense">Delete expense</a>
 
 ### Add your expense  
    
