@@ -2,7 +2,7 @@
 
 <h1 align = "center">My Expense Tracker</h1>
 
-This project is a web-based expense management application that will allow you to add your expenses, retrieve details of your expenses, edit your expenses, search for the information of your expenses and delete the details of your expenses.   
+This project is a web-based expense management application that will allow you to add your expenses, view details of your expenses, edit your expenses, search for the information of your expenses and delete the details of your expenses.   
 
 This system is built as a full stack web application system with the following technologies:  
 * **Visual Studio Code**  
@@ -21,8 +21,57 @@ In this demo, you step will through the features of this web application which i
 
 ### Add your expense  
    
-   1. Click on "Add".  
+1. Click on "Add".  
 2. Add in date, item, amount.  
-3. Click "Submit".  
 
-![add](/addin.jpg)
+![addin](/addin.jpg)
+
+3. Click "Submit".   
+4. You will receive a message that says " You have submitted successfully".   
+
+![addsucess](/addsucess.jpg)  
+
+### View your expense  
+
+1. Click on the expense you want to view.
+2. The information of the expense will appear on the right side of the web.   
+
+![view](/viewexpense.jpg)  
+
+### Edit your expense   
+
+1. Click on "Edit".
+2. Edit your expense.   
+
+![update](/update.jpg)  
+
+3. Click on "Update".   
+4. You will receive a message that says "The expense was updated successfully."   
+
+![updatesucess](/updatesucess.jpg)   
+
+### Search your expense   
+
+1. Type keywords in items. For example, christmas.
+2. Click on "Search".   
+
+![search](/search.jpg)  
+
+3. All items based on your keyword will appear.   
+
+![search](/searchsuccess.jpg)  
+
+### Delete your expense
+
+1. Click on the expense that you want to delete.   
+2. Click on "Edit".   
+3. Click on "Delete".   
+
+![delete](/delete.jpg)  
+
+4. Your delete action is successful.   
+
+![deletesucess](/deletesucess.jpg)  
+
+## You have successfully completed the demo.  
+You are now ready to use My Expense Tracker as the only expense tracker you will need in your life! 
