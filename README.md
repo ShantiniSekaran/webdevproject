@@ -59,7 +59,7 @@ In this demo, you step will through the features of this web application which i
 
 3. All items based on your keyword will appear.   
 
-![searchsucess](/searchsuccess.jpg)  
+![searchsucess](/searchsucess.jpg)   
 
 ### Delete your expense
 
