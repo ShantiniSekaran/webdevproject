@@ -14,4 +14,8 @@ This system is built as a full stack web application system with the following t
 
 In this demo, you step will through the features of this web application which involves:   
 * <a href = "">Add your expense</a>
-* <a href = "">
+* <a href = "">View your expense</a>
+* <a href = "">Edit your expense</a>
+* <a href = "">Seach for expense</a>
+* <a href = "">Delete expense</a>
+
