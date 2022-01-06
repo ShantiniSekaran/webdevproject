@@ -25,4 +25,4 @@ In this demo, you step will through the features of this web application which i
 2. Add in date, item, amount.  
 3. Click "Submit".  
 
-![add](/aad.jpg)
+![add](/addin.jpg)
