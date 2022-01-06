@@ -48,7 +48,7 @@ In this demo, you step will through the features of this web application which i
 3. Click on "Update".   
 4. You will receive a message that says "The expense was updated successfully."   
 
-![updatesucess](/updatesucess.jpg)   
+![updatesucess](/updatesuccess.jpg)   
 
 ### Search your expense   
 
@@ -71,7 +71,7 @@ In this demo, you step will through the features of this web application which i
 
 4. Your delete action is successful.   
 
-![deletesucess](/deletesucess.jpg)  
+![deletesucess](/deletesuccess.jpg)  
 
 ## You have successfully completed the demo.  
 You are now ready to use My Expense Tracker as the only expense tracker you will need in your life! 
