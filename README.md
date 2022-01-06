@@ -1,6 +1,6 @@
 ![landingpage](/landingpage.jpg)
 
-<h1 align = "center">My Expense Tracker</h1>
+<h1 align = "center"> "My Expense Tracker" </h1>
 
 This project is a web-based expense management application that will allow you to add your expenses, view details of your expenses, edit your expenses, search for the information of your expenses and delete the details of your expenses.   
 
@@ -21,7 +21,7 @@ In this demo, you step will through the features of this web application which i
 
 ### Add your expense  
    
-1. Click on "Add".  
+1. Click "Add" at the navigation bar.  
 2. Add in date, item, amount.  
 
 ![addin](/addin.jpg)
@@ -33,14 +33,14 @@ In this demo, you step will through the features of this web application which i
 
 ### View your expense  
 
-1. Click on the expense you want to view.
-2. The information of the expense will appear on the right side of the web.   
+1. Click on the expense you want to view. For example, "Lunch with colleagues".
+2. The information section will display the details on "Lunch with colleagues", on the right side of the page.  
 
 ![view](/viewexpense.jpg)  
 
 ### Edit your expense   
 
-1. Click on "Edit".
+1. Click on "Edit" under Information section.
 2. Edit your expense.   
 
 ![update](/update.jpg)  
@@ -52,12 +52,12 @@ In this demo, you step will through the features of this web application which i
 
 ### Search your expense   
 
-1. Type keywords in items. For example, christmas.
+1. Type keywords of items in the search bar. For example, christmas.
 2. Click on "Search".   
 
 ![search](/search.jpg)
 
-3. All items based on your keyword will appear.   
+3. All items based on your keyword will be listed.   
 
 ![searchsucess](/searchsucess.jpg)   
 
@@ -74,4 +74,4 @@ In this demo, you step will through the features of this web application which i
 ![deletesucess](/deletesuccess.jpg)  
 
 ## You have successfully completed the demo.  
-You are now ready to use My Expense Tracker as the only expense tracker you will need in your life! 
+You are now ready to use ***My Expense Tracker*** as the only expense tracker you will need in your life! 
