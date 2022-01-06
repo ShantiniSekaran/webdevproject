@@ -16,8 +16,8 @@ In this demo, you step will through the features of this web application which i
 * <a href = "#add-your-expense">Add your expense</a>
 * <a href = "#view-your-expense">View your expense</a>
 * <a href = "#edit-your-expense">Edit your expense</a>
-* <a href = "#search-for-expense">Seach for expense</a>
-* <a href = "#delete-expense">Delete expense</a>
+* <a href = "#search-your-expense">Search your expense</a>
+* <a href = "#delete-your-expense">Delete your expense</a>
 
 ### Add your expense  
    
